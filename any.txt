@@ -1,1 +1,263 @@
-
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:cellResolution="40 19" ttp:pixelAspectRatio="1 1" ttp:tickRate="10000000" ttp:timeBase="media" tts:extent="640px 480px" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh" />
+    <styling>
+      <style tts:color="white" tts:fontFamily="monospaceSansSerif" tts:fontSize="100%" xml:id="bodyStyle" />
+      <style tts:color="white" tts:fontFamily="monospaceSansSerif" tts:fontSize="100%" tts:fontStyle="italic" xml:id="style_0" />
+    </styling>
+    <layout>
+      <region xml:id="region_0">
+        <style tts:textAlign="left" />
+        <style tts:displayAlign="center" />
+      </region>
+      <region xml:id="region_01">
+        <style tts:textAlign="left" />
+        <style tts:displayAlign="center" />
+      </region>
+      <region xml:id="region_02">
+        <style tts:textAlign="left" />
+        <style tts:displayAlign="center" />
+      </region>
+    </layout>
+  </head>
+  <body style="bodyStyle">
+    <div xml:space="preserve">
+      <p begin="26970000t" xml:id="p0" end="47770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Though things did‬<br />‪happen out of order.‬</p>
+      <p begin="48670000t" xml:id="p1" end="62770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Oh well.‬</p>
+      <p begin="121570000t" xml:id="p2" end="147770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪So this is Sage Art Chakra…‬</p>
+      <p begin="169170000t" xml:id="p3" end="200470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Is that all there is to it?‬</p>
+      <p begin="209470000t" xml:id="p4" end="232770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Seems like this will be‬<br />‪easy to control.‬</p>
+      <p begin="283570000t" xml:id="p5" end="327970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I'll be taking you all next…‬</p>
+      <p begin="336870000t" xml:id="p6" end="356970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪you filthy beasts.‬</p>
+      <p begin="1285870000t" xml:id="p7" end="1332570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪The Hidden Heart‬</p>
+      <p begin="1476770000t" xml:id="p8" end="1489270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You know, staying here…‬</p>
+      <p begin="1493770000t" xml:id="p9" end="1516770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Yeah…isn't wise.‬</p>
+      <p begin="1520870000t" xml:id="p10" end="1536270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Get away from here!‬</p>
+      <p begin="1843370000t" xml:id="p11" end="1860870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Shukaku! Get ready!‬</p>
+      <p begin="1875070000t" xml:id="p12" end="1897570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Let's go wild!‬</p>
+      <p begin="1904270000t" xml:id="p13" end="1917570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Wind Style…‬</p>
+      <p begin="1918770000t" xml:id="p14" end="1937570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Sand Bomb! Salvo!‬</p>
+      <p begin="2011770000t" xml:id="p15" end="2028370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Nice jutsu.‬</p>
+      <p begin="2035870000t" xml:id="p16" end="2058770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪But it lacks in finishing power…‬</p>
+      <p begin="2215470000t" xml:id="p17" end="2263370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪So you implant your sand with‬<br />‪this jutsu to stifle movement…‬</p>
+      <p begin="2525870000t" xml:id="p18" end="2542970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Now, Shukaku!‬</p>
+      <p begin="2737170000t" xml:id="p19" end="2760870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Grand Sand Mausoleum Seal!‬</p>
+      <p begin="2811270000t" xml:id="p20" end="2831770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪It's a Mausoleum Seal‬</p>
+      <p begin="2832570000t" xml:id="p21" end="2861770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪that uses my sand‬<br />‪and curse mark pattern!‬</p>
+      <p begin="2871770000t" xml:id="p22" end="2885070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪He sealed him!‬</p>
+      <p begin="2916270000t" xml:id="p23" end="2927570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Did it work?!‬</p>
+      <p begin="2932970000t" xml:id="p24" end="2966270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪He'll never take another‬<br />‪breath of fresh air again!‬</p>
+      <p begin="3349270000t" xml:id="p25" end="3372170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪The Susano'o, huh!‬</p>
+      <p begin="3449270000t" xml:id="p26" end="3475470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I'll be putting collars‬<br />‪on all of you shortly.‬</p>
+      <p begin="3475870000t" xml:id="p27" end="3498370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Not one of you will‬<br />‪be able to get away.‬</p>
+      <p begin="3509670000t" xml:id="p28" end="3525070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I won't let you!‬</p>
+      <p begin="3567970000t" xml:id="p29" end="3597570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪No one here's going to wag‬<br />‪his tail for you!‬</p>
+      <p begin="3599270000t" xml:id="p30" end="3615470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Sorry we're late!‬</p>
+      <p begin="3615470000t" xml:id="p31" end="3637570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪We were moving the injured.‬</p>
+      <p begin="3638370000t" xml:id="p32" end="3652170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Don't worry!‬</p>
+      <p begin="3652970000t" xml:id="p33" end="3675470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪There won't be any more wounded.‬</p>
+      <p begin="3677970000t" xml:id="p34" end="3692570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪We're ending this now!‬</p>
+      <p begin="3693370000t" xml:id="p35" end="3710070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Stack tails!‬</p>
+      <p begin="3715870000t" xml:id="p36" end="3765070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪– Right!‬<br />‪– Right!‬</p>
+      <p begin="3879670000t" xml:id="p37" end="3902970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You were close,‬<br />‪you damned raccoon!‬</p>
+      <p begin="3918370000t" xml:id="p38" end="3955070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Quit ordering us around,‬<br />‪you dumb fox!‬</p>
+      <p begin="3960870000t" xml:id="p39" end="3974270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪But this should…‬</p>
+      <p begin="4095870000t" xml:id="p40" end="4114270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Persistent bastard!‬</p>
+      <p begin="4115470000t" xml:id="p41" end="4137170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪But he's already taken a beating.‬</p>
+      <p begin="4137570000t" xml:id="p42" end="4156770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪All right! One more blast!‬</p>
+      <p begin="4157570000t" xml:id="p43" end="4176270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Yeah, let's go, Naruto!‬</p>
+      <p begin="4275470000t" xml:id="p44" end="4303370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Sorry I'm late, Lord Madara.‬</p>
+      <p begin="4305070000t" xml:id="p45" end="4316770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You're finally here.‬</p>
+      <p begin="4322970000t" xml:id="p46" end="4343370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Hey, that's Zetsu or‬<br />‪whatever he's called.‬</p>
+      <p begin="4345870000t" xml:id="p47" end="4363770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Reinforcements? Just one?‬</p>
+      <p begin="4365870000t" xml:id="p48" end="4385870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪What's he doin' here now ♪‬</p>
+      <p begin="4390070000t" xml:id="p49" end="4409670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Isn't it kinda late? ♪‬</p>
+      <p begin="4418370000t" xml:id="p50" end="4432970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Do you have it?‬</p>
+      <p begin="4439670000t" xml:id="p51" end="4456270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Of course.‬</p>
+      <p begin="4640470000t" xml:id="p52" end="4667570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪This should make things‬<br />‪a little more fun…‬</p>
+      <p begin="4772970000t" xml:id="p53" end="4808770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪This taste of blood…this pain!‬</p>
+      <p begin="4825070000t" xml:id="p54" end="4838370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪This is my body!‬</p>
+      <p begin="4867170000t" xml:id="p55" end="4918370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Finally… I can fully‬<br />‪savor battle again!‬</p>
+      <p begin="5073770000t" xml:id="p56" end="5087170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪What's wrong, Kurama?‬</p>
+      <p begin="5092970000t" xml:id="p57" end="5107570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪His blood…‬</p>
+      <p begin="5108370000t" xml:id="p58" end="5135070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪It's bringing back some‬<br />‪really bad memories.‬</p>
+      <p begin="5142570000t" xml:id="p59" end="5152170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Blood?‬</p>
+      <p begin="5156770000t" xml:id="p60" end="5191770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪That repulsive blood that‬<br />‪summoned me long ago.‬</p>
+      <p begin="5198370000t" xml:id="p61" end="5231770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Hey, you dumb fox! Don't get scared‬<br />‪and stick your tail between your legs!‬</p>
+      <p begin="5237970000t" xml:id="p62" end="5283770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I wouldn't underestimate him‬<br />‪if I were you…‬</p>
+      <p begin="5296770000t" xml:id="p63" end="5314670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪This isn't like you!‬</p>
+      <p begin="5315870000t" xml:id="p64" end="5330870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪It's rubbing me the wrong way!‬</p>
+      <p begin="5338370000t" xml:id="p65" end="5351770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Summoning Jutsu!‬</p>
+      <p begin="5395070000t" xml:id="p66" end="5406270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Obito!‬</p>
+      <p begin="5534670000t" xml:id="p67" end="5555470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪He's gonna fight us using that?‬</p>
+      <p begin="5560870000t" xml:id="p68" end="5578770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Kakashi, can you manage?‬</p>
+      <p begin="5580070000t" xml:id="p69" end="5595470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Yes, in one way or another…‬</p>
+      <p begin="5606770000t" xml:id="p70" end="5615870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Kamui!‬</p>
+      <p begin="5680070000t" xml:id="p71" end="5689670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Did it work?‬</p>
+      <p begin="5711270000t" xml:id="p72" end="5721270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I think…‬</p>
+      <p begin="5736270000t" xml:id="p73" end="5750870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪it failed…‬</p>
+      <p begin="5796270000t" xml:id="p74" end="5807970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Not that thing again!‬</p>
+      <p begin="5825070000t" xml:id="p75" end="5845470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Seems the right arm's been wrenched off.‬</p>
+      <p begin="5856770000t" xml:id="p76" end="5896770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Seems there's someone left with‬<br />‪good eyes on the other side.‬</p>
+      <p begin="5906770000t" xml:id="p77" end="5925470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Well, it's not much of an impediment.‬</p>
+      <p begin="5929270000t" xml:id="p78" end="5956270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪And now, I've got a pen for them.‬</p>
+      <p begin="5975870000t" xml:id="p79" end="5998370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪All I need to do is‬<br />‪shove them in there.‬</p>
+      <p begin="6016270000t" xml:id="p80" end="6066270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪A fake Rinnegan from a reanimation‬<br />‪can summon that thing?‬</p>
+      <p begin="6076270000t" xml:id="p81" end="6107570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪He's bleeding and wounded.‬</p>
+      <p begin="6112170000t" xml:id="p82" end="6136770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪In other words, he's not‬<br />‪a reanimation anymore.‬</p>
+      <p begin="6141770000t" xml:id="p83" end="6171770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪He possesses a real Rinnegan.‬</p>
+      <p begin="6184670000t" xml:id="p84" end="6205070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪How did he come back to life?!‬</p>
+      <p begin="6256770000t" xml:id="p85" end="6295470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Naruto, I'm grateful to you.‬</p>
+      <p begin="6308770000t" xml:id="p86" end="6345470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You even extracted‬<br />‪the Tailed Beasts from Obito,‬</p>
+      <p begin="6347170000t" xml:id="p87" end="6382170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪saving me the trouble‬<br />‪of weakening him.‬</p>
+      <p begin="6386270000t" xml:id="p88" end="6416770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Don't tell me with‬<br />‪Obito's Rinne Rebirth…‬</p>
+      <p begin="6450470000t" xml:id="p89" end="6475470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Now just come over, you bastard!‬</p>
+      <p begin="6498370000t" xml:id="p90" end="6516770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Everyone's power…‬</p>
+      <p begin="6528770000t" xml:id="p91" end="6545870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Don't you dare underestimate it!‬</p>
+      <p begin="6560470000t" xml:id="p92" end="6574870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Then Obito's…!‬</p>
+      <p begin="6687170000t" xml:id="p93" end="6697170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Obito…‬</p>
+      <p begin="6702170000t" xml:id="p94" end="6725470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪He's fighting to prevent‬<br />‪his Rinnegan‬</p>
+      <p begin="6726270000t" xml:id="p95" end="6743770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪from falling into‬<br />‪Madara's hands.‬</p>
+      <p begin="6749270000t" xml:id="p96" end="6787570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You're stubborn,‬<br />‪for someone near death.‬</p>
+      <p begin="6799670000t" xml:id="p97" end="6850070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪This left eye came to you‬<br />‪through Nagato,‬</p>
+      <p begin="6850870000t" xml:id="p98" end="6892170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪but it's time for it to return it‬<br />‪to its rightful owner.‬</p>
+      <p begin="6897170000t" xml:id="p99" end="6934270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪The only ones who have awakened‬<br />‪the Rinnegan in this world‬</p>
+      <p begin="6935070000t" xml:id="p100" end="6971770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪are the Sage of Six Paths‬<br />‪and Madara Uchiha.‬</p>
+      <p begin="6985870000t" xml:id="p101" end="7033770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪It's not a mere thing to‬<br />‪be hoarded by the likes of you.‬</p>
+      <p begin="7046270000t" xml:id="p102" end="7067170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I've hidden the right eye…‬</p>
+      <p begin="7070470000t" xml:id="p103" end="7105870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪And I'm going to have Kakashi‬<br />‪destroy the left eye right now.‬</p>
+      <p begin="7165470000t" xml:id="p104" end="7205870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪White Zetsu found‬<br />‪the right eye a while ago‬</p>
+      <p begin="7206770000t" xml:id="p105" end="7236770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪and turned it over to Lord Madara.‬</p>
+      <p begin="7280870000t" xml:id="p106" end="7309670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You're a useless fool‬<br />‪who refuses to die…‬</p>
+      <p begin="7310470000t" xml:id="p107" end="7333370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪So stop resisting.‬</p>
+      <p begin="7340470000t" xml:id="p108" end="7392970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You'd be dead already‬<br />‪if I wasn't sticking to you.‬</p>
+      <p begin="7422170000t" xml:id="p109" end="7477570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Then detach from me and‬<br />‪take the Rinnegan after I die.‬</p>
+      <p begin="7483770000t" xml:id="p110" end="7545870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪The instant I detach from you,‬<br />‪these two will kill me.‬</p>
+      <p begin="7545870000t" xml:id="p111" end="7578370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Before I can take the Rinnegan.‬</p>
+      <p begin="7593770000t" xml:id="p112" end="7616770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Have you forgotten that‬<br />‪I was the one‬</p>
+      <p begin="7617570000t" xml:id="p113" end="7647970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪who gathered intel for Akatsuki?‬</p>
+      <p begin="7651770000t" xml:id="p114" end="7688770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I've already analyzed these two‬<br />‪and their strength.‬</p>
+      <p begin="7696770000t" xml:id="p115" end="7720470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪It's going to take a bit longer‬<br />‪for the left eye.‬</p>
+      <p begin="7726770000t" xml:id="p116" end="7744670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Seems like it.‬</p>
+      <p begin="7752170000t" xml:id="p117" end="7777170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪This also looks like it's going‬<br />‪to take a bit longer too.‬</p>
+      <p begin="7785470000t" xml:id="p118" end="7805870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Don't compare me to that brat‬</p>
+      <p begin="7805870000t" xml:id="p119" end="7827170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪who took years to get back‬<br />‪those pets.‬</p>
+      <p begin="7832170000t" xml:id="p120" end="7846770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You're covered in blood.‬</p>
+      <p begin="7866270000t" xml:id="p121" end="7897970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Knowing that I possess‬<br />‪Hashirama's healing powers‬</p>
+      <p begin="7898770000t" xml:id="p122" end="7933370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪might cause me to fight crudely.‬</p>
+      <p begin="7936770000t" xml:id="p123" end="7951270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Let's go!‬</p>
+      <p begin="7954670000t" xml:id="p124" end="7980070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Wait. We don't know how‬<br />‪he's planning to attack.‬</p>
+      <p begin="7990070000t" xml:id="p125" end="8007970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪The Gedo Statue, huh…‬</p>
+      <p begin="8071770000t" xml:id="p126" end="8089270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I'll proceed more carefully.‬</p>
+      <p begin="8102970000t" xml:id="p127" end="8125870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪If I use the Rinnegan's true powers,‬</p>
+      <p begin="8125870000t" xml:id="p128" end="8152170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪we should see‬<br />‪a more sophisticated battle.‬</p>
+      <p begin="8165070000t" xml:id="p129" end="8177170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪It will only be a few seconds.‬</p>
+      <p begin="8177570000t" xml:id="p130" end="8193770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪So watch closely!‬</p>
+      <p begin="8245470000t" xml:id="p131" end="8257570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Limbo…‬</p>
+      <p begin="8267170000t" xml:id="p132" end="8279270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Hengoku!‬</p>
+      <p begin="8349670000t" xml:id="p133" end="8366770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪He might try something…‬</p>
+      <p begin="8372970000t" xml:id="p134" end="8382970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪So be careful…‬</p>
+      <p begin="8577170000t" xml:id="p135" end="8595070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪What is this?‬<br />‪What just happened?!‬</p>
+      <p begin="8601770000t" xml:id="p136" end="8615070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Damn you…‬</p>
+      <p begin="8640070000t" xml:id="p137" end="8656770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪The Tailed Beasts got knocked down!‬</p>
+      <p begin="8672570000t" xml:id="p138" end="8685070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Was it Madara's jutsu?!‬</p>
+      <p begin="8773770000t" xml:id="p139" end="8795070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪That ought to have tamed you a bit.‬</p>
+      <p begin="8802170000t" xml:id="p140" end="8828770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Now I can put on your collars!‬</p>
+      <p begin="8871270000t" xml:id="p141" end="8883770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Something's coming!‬</p>
+      <p begin="9020470000t" xml:id="p142" end="9032170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Eight-o!‬</p>
+      <p begin="9042970000t" xml:id="p143" end="9052970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Kurama!‬</p>
+      <p begin="9107170000t" xml:id="p144" end="9151770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪First, I'll rip the Eight and‬<br />‪Nine Tails from their Jinchuriki!‬</p>
+      <p begin="9192970000t" xml:id="p145" end="9205070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Eight-o!‬</p>
+      <p begin="9222170000t" xml:id="p146" end="9235070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Damn it!‬</p>
+      <p begin="9235470000t" xml:id="p147" end="9244670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪That's right…‬</p>
+      <p begin="9245470000t" xml:id="p148" end="9265470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪If I just undo‬<br />‪this Kurama Mode…!‬</p>
+      <p begin="9267570000t" xml:id="p149" end="9278770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪It's useless.‬</p>
+      <p begin="9279670000t" xml:id="p150" end="9303770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Once I catch them,‬<br />‪I won't let them go.‬</p>
+      <p begin="9315870000t" xml:id="p151" end="9327170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪It's not working!‬</p>
+      <p begin="9327970000t" xml:id="p152" end="9347970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Kurama's not going‬<br />‪back inside me…!‬</p>
+      <p begin="9372970000t" xml:id="p153" end="9387170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Damn it, I'm being pulled backwards!‬</p>
+      <p begin="9391770000t" xml:id="p154" end="9431770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Lord Madara, you must take them‬<br />‪in order starting with the One Tail.‬</p>
+      <p begin="9435470000t" xml:id="p155" end="9449670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I know that.‬</p>
+      <p begin="9450470000t" xml:id="p156" end="9481270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Since you need to rip out‬<br />‪the last two Tailed Beasts,‬</p>
+      <p begin="9482170000t" xml:id="p157" end="9507170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Eight and Nine Tails,‬<br />‪from the Jinchuriki,‬</p>
+      <p begin="9507970000t" xml:id="p158" end="9522970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪why not pull in the others,‬</p>
+      <p begin="9523770000t" xml:id="p159" end="9553370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪the one tail through seven‬<br />‪in the time being?‬</p>
+      <p begin="9562970000t" xml:id="p160" end="9600070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You bastard! I'm not letting you‬<br />‪take Kurama!‬</p>
+      <p begin="9612970000t" xml:id="p161" end="9635470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You're right, it looks like this will‬<br />‪take longer than I expected.‬</p>
+      <p begin="9642970000t" xml:id="p162" end="9674670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪So let's start…with this one!‬</p>
+      <p begin="9695870000t" xml:id="p163" end="9710870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Desert Hands!‬</p>
+      <p begin="9740470000t" xml:id="p164" end="9765070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You can't have Shukaku!‬</p>
+      <p begin="9843770000t" xml:id="p165" end="9899270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪When you fall asleep,‬<br />‪I'll take over your body and soul…‬</p>
+      <p begin="9903370000t" xml:id="p166" end="9935870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪And slaughter all you humans!‬</p>
+      <p begin="9957970000t" xml:id="p167" end="9982970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Better not doze off.‬</p>
+      <p begin="9994270000t" xml:id="p168" end="10026770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You hate humans?‬</p>
+      <p begin="10034670000t" xml:id="p169" end="10053370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Yeah! I despise them!‬</p>
+      <p begin="10061270000t" xml:id="p170" end="10109670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪But… You're here to protect‬<br />‪my village, aren't you?‬</p>
+      <p begin="10115070000t" xml:id="p171" end="10145070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I've never protected you all‬<br />‪because I wanted to.‬</p>
+      <p begin="10148770000t" xml:id="p172" end="10180470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You humans are less than us beasts!‬</p>
+      <p begin="10210070000t" xml:id="p173" end="10225470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Here's your meal, Shukaku!‬</p>
+      <p begin="10332970000t" xml:id="p174" end="10356770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Why do we have to stand guard‬<br />‪over a creepy, weird monk‬</p>
+      <p begin="10357570000t" xml:id="p175" end="10386770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪even though we're senior shinobi?‬</p>
+      <p begin="10396770000t" xml:id="p176" end="10408370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I know what you mean.‬</p>
+      <p begin="10409270000t" xml:id="p177" end="10453770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪But guarding the Jinchuriki means‬<br />‪they recognize your skills.‬</p>
+      <p begin="10458770000t" xml:id="p178" end="10475070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Just stop whining and deal with it.‬</p>
+      <p begin="10486270000t" xml:id="p179" end="10501770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Poor damned monk.‬</p>
+      <p begin="10502570000t" xml:id="p180" end="10542970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪They don't even call you by‬<br />‪your real name anymore.‬</p>
+      <p begin="10552170000t" xml:id="p181" end="10569670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I don't really mind.‬</p>
+      <p begin="10583770000t" xml:id="p182" end="10620870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Since you know my real name.‬</p>
+      <p begin="10630070000t" xml:id="p183" end="10666770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You may be a monk,‬<br />‪but don't you ever get lonely…‬</p>
+      <p begin="10667570000t" xml:id="p184" end="10725470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪putting up with humans‬<br />‪who hate you, and a beast like me?‬</p>
+      <p begin="10735070000t" xml:id="p185" end="10763770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Caged together with‬<br />‪a man-hating beast‬</p>
+      <p begin="10764670000t" xml:id="p186" end="10793770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪that's been with you ever‬<br />‪since you were born?‬</p>
+      <p begin="10804670000t" xml:id="p187" end="10852170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Well, I'd die the moment‬<br />‪I'm separated from you…‬</p>
+      <p begin="10855870000t" xml:id="p188" end="10874270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Since I'm a Jinchuriki.‬</p>
+      <p begin="10885070000t" xml:id="p189" end="10933770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪There's no need to distinguish‬<br />‪between human and beast.‬</p>
+      <p begin="10942970000t" xml:id="p190" end="10982570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪That's because a friend of‬<br />‪the heart provides peace of mind,‬</p>
+      <p begin="10983370000t" xml:id="p191" end="11001270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪no matter the species.‬</p>
+      <p begin="11005070000t" xml:id="p192" end="11031770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You are one strange bastard.‬</p>
+      <p begin="11034670000t" xml:id="p193" end="11074270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪There isn't ever going to be‬<br />‪another human like you again.‬</p>
+      <p begin="11081270000t" xml:id="p194" end="11088770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪No…‬</p>
+      <p begin="11102170000t" xml:id="p195" end="11122970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I think you're wrong.‬</p>
+      <p begin="11135070000t" xml:id="p196" end="11159670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Human souls are like reflecting water.‬</p>
+      <p begin="11164270000t" xml:id="p197" end="11207170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪People often speak or act opposite‬<br />‪of their true feelings.‬</p>
+      <p begin="11213370000t" xml:id="p198" end="11253370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪But essentially,‬<br />‪the human heart wishes‬</p>
+      <p begin="11255470000t" xml:id="p199" end="11290470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪to connect with and‬<br />‪accept each other.‬</p>
+      <p begin="11293770000t" xml:id="p200" end="11314670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Even with beasts.‬</p>
+      <p begin="11345070000t" xml:id="p201" end="11358770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You know…‬</p>
+      <p begin="11365070000t" xml:id="p202" end="11423370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪you really do remind me of‬<br />‪the old man, Sage of Six Paths.‬</p>
+      <p begin="11515470000t" xml:id="p203" end="11534670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Thank you.‬</p>
+      <p begin="11540870000t" xml:id="p204" end="11602570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Those are the most heartwarming words‬<br />‪I've ever received from you.‬</p>
+      <p begin="11622570000t" xml:id="p205" end="11656270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Hurry up and eat, old man!‬<br />‪We've got things to do here!‬</p>
+      <p begin="11675070000t" xml:id="p206" end="11716770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I really can't see there being‬<br />‪others like you out there.‬</p>
+      <p begin="11727170000t" xml:id="p207" end="11746270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I'm sure there are.‬</p>
+      <p begin="11748770000t" xml:id="p208" end="11764670000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪And I know one day,‬</p>
+      <p begin="11765470000t" xml:id="p209" end="11812570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪there will be someone who will protect,‬<br />‪redeem, and shepherd you.‬</p>
+      <p begin="11822170000t" xml:id="p210" end="11852970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪And the moment you come‬<br />‪to accept his true heart,‬</p>
+      <p begin="11853770000t" xml:id="p211" end="11872970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪you too will likely comprehend…‬</p>
+      <p begin="11885870000t" xml:id="p212" end="11931270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪ACCEPTANCE HEART‬<br />‪The meaning of these words‬<br />‪my mentor etched onto my palms…‬<br />‪‬</p>
+      <p begin="11944270000t" xml:id="p213" end="11958770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪LOVE‬</p>
+      <p begin="12020470000t" xml:id="p214" end="12042970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Gaara, don't lose!‬</p>
+      <p begin="12096770000t" xml:id="p215" end="12135070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Until now, I've always‬<br />‪considered you unpleasant.‬</p>
+      <p begin="12143770000t" xml:id="p216" end="12164270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪But it was because‬<br />‪I was a Jinchuriki,‬</p>
+      <p begin="12165070000t" xml:id="p217" end="12183370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪that I was able to meet Naruto…‬</p>
+      <p begin="12190070000t" xml:id="p218" end="12223770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪So there's one thing‬<br />‪I'm grateful to you for now.‬</p>
+      <p begin="12253770000t" xml:id="p219" end="12272170000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪You Sand brat!‬</p>
+      <p begin="12272970000t" xml:id="p220" end="12305070000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Are you really that happy‬<br />‪to have your old pet back?‬</p>
+      <p begin="12310870000t" xml:id="p221" end="12322570000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪How dare you interfere,‬</p>
+      <p begin="12323370000t" xml:id="p222" end="12347970000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪even when you're not going‬<br />‪to die as a Jinchuriki!‬</p>
+      <p begin="12425070000t" xml:id="p223" end="12453770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪My motto is absolute defense!‬</p>
+      <p begin="12459270000t" xml:id="p224" end="12485870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I've still got my pride as Shukaku!‬</p>
+      <p begin="12495870000t" xml:id="p225" end="12506770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I know…‬</p>
+      <p begin="12532570000t" xml:id="p226" end="12558370000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪No… you know nothing at all.‬</p>
+      <p begin="13585870000t" xml:id="p227" end="13600870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪People desire peace.‬</p>
+      <p begin="13606770000t" xml:id="p228" end="13636270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪And yet on the other hand,‬<br />‪crave conflict as well.‬</p>
+      <p begin="13640470000t" xml:id="p229" end="13673770000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪That's right, Hashirama's nation-building‬<br />‪bore a paradox.‬</p>
+      <p begin="13681270000t" xml:id="p230" end="13720470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪People will sacrifice something in order‬<br />‪to protect something else.‬</p>
+      <p begin="13720470000t" xml:id="p231" end="13749270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Stop Madara! Don't you—!‬</p>
+      <p begin="13758370000t" xml:id="p232" end="13800470000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Next time on Naruto Shippuden:‬<br />‪"A True Ending"‬</p>
+      <p begin="13811270000t" xml:id="p233" end="13852870000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪I gave you plenty enough time‬<br />‪How unfortunate.‬</p>
+      <p begin="13859970000t" xml:id="p234" end="13899270000t" region="region0" xml:space="preserve" tts:origin="10.00% 10.00%" tts:extent="80.00% 80.00%">‪Tune in again!‬</p>
+    </div>
+  </body>
+</tt>
